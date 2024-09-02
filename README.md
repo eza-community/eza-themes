@@ -27,5 +27,5 @@ On Linux, simply clone the repository somewhere and symlink a theme to
 ```sh
 git clone https://github.com/eza-community/eza-themes.git
 mkdir -p ~/.config/eza
-ln -s "$(pwd)/eza-themes/themes/default.yml" ~/.config/eza/theme.yml
+ln -sf "$(pwd)/eza-themes/themes/default.yml" ~/.config/eza/theme.yml
 ```

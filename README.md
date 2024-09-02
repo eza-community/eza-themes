@@ -29,3 +29,7 @@ git clone https://github.com/eza-community/eza-themes.git
 mkdir -p ~/.config/eza
 ln -sf "$(pwd)/eza-themes/themes/default.yml" ~/.config/eza/theme.yml
 ```
+
+**NOTE:** `EZA_CONFIG_DIR` can be used to specify a custom configuration directory.
+Also, `LS_COLORS` and `EZA_COLORS` take precedence over the theme file, so make
+sure to unset them when using a theme file.

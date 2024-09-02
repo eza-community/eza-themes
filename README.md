@@ -42,3 +42,17 @@ what you want to change.
 `EZA_CONFIG_DIR` can be used to specify a custom configuration directory.
 Also, `LS_COLORS` and `EZA_COLORS` take precedence over the theme file, so make
 sure to unset them when using a theme file.
+
+## Specification
+
+### General
+TODO
+
+### Style
+TODO
+
+### Color
+TODO
+
+### File- and Extension-Based Overrides
+TODO

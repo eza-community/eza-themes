@@ -1,0 +1,110 @@
+colourful: false
+
+filekinds:
+  normal: {foreground: !Rgb [0,0,0]}
+  directory: {foreground: !Rgb [0,0,0]}
+  symlink: {foreground: !Rgb [0,0,0]}
+  pipe: {foreground: !Rgb [0,0,0]}
+  block_device: {foreground: !Rgb [0,0,0]}
+  char_device: {foreground: !Rgb [0,0,0]}
+  socket: {foreground: !Rgb [0,0,0]}
+  special: {foreground: !Rgb [0,0,0]}
+  executable: {foreground: !Rgb [0,0,0]}
+  mount_point: {foreground: !Rgb [0,0,0]}
+
+perms:
+  user_read: {foreground: !Rgb [0,0,0]}
+  user_write: {foreground: !Rgb [0,0,0]}
+  user_execute_file: {foreground: !Rgb [0,0,0]}
+  user_execute_other: {foreground: !Rgb [0,0,0]}
+  group_read: {foreground: !Rgb [0,0,0]}
+  group_write: {foreground: !Rgb [0,0,0]}
+  group_execute: {foreground: !Rgb [0,0,0]}
+  other_read: {foreground: !Rgb [0,0,0]}
+  other_write: {foreground: !Rgb [0,0,0]}
+  other_execute: {foreground: !Rgb [0,0,0]}
+  special_user_file: {foreground: !Rgb [0,0,0]}
+  special_other: {foreground: !Rgb [0,0,0]}
+  attribute: {foreground: !Rgb [0,0,0]}
+
+size:
+  major: {foreground: !Rgb [0,0,0]}
+  minor: {foreground: !Rgb [0,0,0]}
+  number_byte: {foreground: !Rgb [0,0,0]}
+  number_kilo: {foreground: !Rgb [0,0,0]}
+  number_mega: {foreground: !Rgb [0,0,0]}
+  number_giga: {foreground: !Rgb [0,0,0]}
+  number_huge: {foreground: !Rgb [0,0,0]}
+  unit_byte: {foreground: !Rgb [0,0,0]}
+  unit_kilo: {foreground: !Rgb [0,0,0]}
+  unit_mega: {foreground: !Rgb [0,0,0]}
+  unit_giga: {foreground: !Rgb [0,0,0]}
+  unit_huge: {foreground: !Rgb [0,0,0]}
+
+users:
+  user_you: {foreground: !Rgb [0,0,0]}
+  user_root: {foreground: !Rgb [0,0,0]}
+  user_other: {foreground: !Rgb [0,0,0]}
+  group_yours: {foreground: !Rgb [0,0,0]}
+  group_other: {foreground: !Rgb [0,0,0]}
+  group_root: {foreground: !Rgb [0,0,0]}
+
+links:
+  normal: {foreground: !Rgb [0,0,0]}
+  multi_link_file: {foreground: !Rgb [0,0,0]}
+
+git:
+  new: {foreground: !Rgb [0,0,0]}
+  modified: {foreground: !Rgb [0,0,0]}
+  deleted: {foreground: !Rgb [0,0,0]}
+  renamed: {foreground: !Rgb [0,0,0]}
+  typechange: {foreground: !Rgb [0,0,0]}
+  ignored: {foreground: !Rgb [0,0,0]}
+  conflicted: {foreground: !Rgb [0,0,0]}
+
+git_repo:
+  branch_main: {foreground: !Rgb [0,0,0]}
+  branch_other: {foreground: !Rgb [0,0,0]}
+  git_clean: {foreground: !Rgb [0,0,0]}
+  git_dirty: {foreground: !Rgb [0,0,0]}
+
+security_context:
+  colon: {foreground: !Rgb [0,0,0]}
+  user: {foreground: !Rgb [0,0,0]}
+  role: {foreground: !Rgb [0,0,0]}
+  typ: {foreground: !Rgb [0,0,0]}
+  range: {foreground: !Rgb [0,0,0]}
+
+file_type:
+  image: {foreground: !Rgb [0,0,0]}
+  video: {foreground: !Rgb [0,0,0]}
+  music: {foreground: !Rgb [0,0,0]}
+  lossless: {foreground: !Rgb [0,0,0]}
+  crypto: {foreground: !Rgb [0,0,0]}
+  document: {foreground: !Rgb [0,0,0]}
+  compressed: {foreground: !Rgb [0,0,0]}
+  temp: {foreground: !Rgb [0,0,0]}
+  compiled: {foreground: !Rgb [0,0,0]}
+  build: {foreground: !Rgb [0,0,0]}
+  source: {foreground: !Rgb [0,0,0]}
+
+punctuation: {foreground: !Rgb [0,0,0]}
+date: {foreground: !Rgb [0,0,0]}
+inode: {foreground: !Rgb [0,0,0]}
+blocks: {foreground: !Rgb [0,0,0]}
+header: {foreground: !Rgb [0,0,0]}
+octal: {foreground: !Rgb [0,0,0]}
+flags: {foreground: !Rgb [0,0,0]}
+
+symlink_path: {foreground: !Rgb [0,0,0]}
+control_char: {foreground: !Rgb [0,0,0]}
+broken_symlink: {foreground: !Rgb [0,0,0]}
+broken_path_overlay: {foreground: !Rgb [0,0,0]}
+
+filenames:
+  # Custom filename-based overrides
+  # Cargo.toml: {icon: {glyph: 🦀}}
+
+extensions:
+  # Custom extension-based overrides
+  # rs: {filename: {foreground: Red}, icon: {glyph: 🦀}}

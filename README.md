@@ -30,6 +30,15 @@ mkdir -p ~/.config/eza
 ln -sf "$(pwd)/eza-themes/themes/default.yml" ~/.config/eza/theme.yml
 ```
 
-**NOTE:** `EZA_CONFIG_DIR` can be used to specify a custom configuration directory.
+## Usage Hints
+
+### Overriding Things
+
+The theme file overrides the default styles, meaning you only need to specify
+what you want to change.
+
+### Environment Variables
+
+`EZA_CONFIG_DIR` can be used to specify a custom configuration directory.
 Also, `LS_COLORS` and `EZA_COLORS` take precedence over the theme file, so make
 sure to unset them when using a theme file.

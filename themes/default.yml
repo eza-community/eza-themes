@@ -1,0 +1,110 @@
+colourful: true
+
+filekinds:
+  normal: {foreground: Default}
+  directory: {foreground: Blue, is_bold: true}
+  symlink: {foreground: Cyan}
+  pipe: {foreground: Yellow}
+  block_device: {foreground: Yellow, is_bold: true}
+  char_device: {foreground: Yellow, is_bold: true}
+  socket: {foreground: Red, is_bold: true}
+  special: {foreground: Yellow}
+  executable: {foreground: Green, is_bold: true}
+  mount_point: {foreground: Blue, is_bold: true, is_underlined: true}
+
+perms:
+  user_read: {foreground: Yellow, is_bold: true}
+  user_write: {foreground: Red, is_bold: true}
+  user_execute_file: {foreground: Green, is_bold: true, is_underlined: true}
+  user_execute_other: {foreground: Green, is_bold: true}
+  group_read: {foreground: Yellow}
+  group_write: {foreground: Red}
+  group_execute: {foreground: Green}
+  other_read: {foreground: Yellow}
+  other_write: {foreground: Red}
+  other_execute: {foreground: Green}
+  special_user_file: {foreground: Purple}
+  special_other: {foreground: Purple}
+  attribute: {foreground: Default}
+
+size:
+  major: {foreground: Green, is_bold: true}
+  minor: {foreground: Green}
+  number_byte: {foreground: Green, is_bold: true}
+  number_kilo: {foreground: Green, is_bold: true}
+  number_mega: {foreground: Green, is_bold: true}
+  number_giga: {foreground: Green, is_bold: true}
+  number_huge: {foreground: Green, is_bold: true}
+  unit_byte: {foreground: Green}
+  unit_kilo: {foreground: Green}
+  unit_mega: {foreground: Green}
+  unit_giga: {foreground: Green}
+  unit_huge: {foreground: Green}
+
+users:
+  user_you: {foreground: Yellow, is_bold: true}
+  user_root: {foreground: Default}
+  user_other: {foreground: Default}
+  group_yours: {foreground: Yellow, is_bold: true}
+  group_other: {foreground: Default}
+  group_root: {foreground: Default}
+
+links:
+  normal: {foreground: Red, is_bold: true}
+  multi_link_file: {foreground: Red, background: Yellow}
+
+git:
+  new: {foreground: Green}
+  modified: {foreground: Blue}
+  deleted: {foreground: Red}
+  renamed: {foreground: Yellow}
+  typechange: {foreground: Purple}
+  ignored: {foreground: Default, is_dimmed: true}
+  conflicted: {foreground: Red}
+
+git_repo:
+  branch_main: {foreground: Green}
+  branch_other: {foreground: Yellow}
+  git_clean: {foreground: Green}
+  git_dirty: {foreground: Yellow}
+
+security_context:
+  colon: {foreground: Default, is_dimmed: true}
+  user: {foreground: Blue}
+  role: {foreground: Green}
+  typ: {foreground: Yellow}
+  range: {foreground: Cyan}
+
+file_type:
+  image: {foreground: Purple}
+  video: {foreground: Purple, is_bold: true}
+  music: {foreground: Cyan}
+  lossless: {foreground: Cyan, is_bold: true}
+  crypto: {foreground: Green, is_bold: true}
+  document: {foreground: Green}
+  compressed: {foreground: Red}
+  temp: {foreground: White}
+  compiled: {foreground: Yellow}
+  build: {foreground: Yellow, is_bold: true, is_underlined: true}
+  source: {foreground: Yellow, is_bold: true}
+
+punctuation: {foreground: DarkGray, is_bold: true}
+date: {foreground: Blue}
+inode: {foreground: Purple}
+blocks: {foreground: Cyan}
+header: {foreground: Default, is_underlined: true}
+octal: {foreground: Purple}
+flags: {foreground: Default}
+
+symlink_path: {foreground: Cyan}
+control_char: {foreground: Red}
+broken_symlink: {foreground: Red}
+broken_path_overlay: {foreground: Default, is_underlined: true}
+
+filenames:
+  # Custom filename-based overrides
+  # Cargo.toml: {icon: {glyph: 🦀}}
+
+extensions:
+  # Custom extension-based overrides
+  # rs: {filename: {foreground: Red}, icon: {glyph: 🦀}}

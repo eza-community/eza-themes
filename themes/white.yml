@@ -1,0 +1,110 @@
+colourful: false
+
+filekinds:
+  normal: {foreground: !Rgb [255,255,255]}
+  directory: {foreground: !Rgb [255,255,255]}
+  symlink: {foreground: !Rgb [255,255,255]}
+  pipe: {foreground: !Rgb [255,255,255]}
+  block_device: {foreground: !Rgb [255,255,255]}
+  char_device: {foreground: !Rgb [255,255,255]}
+  socket: {foreground: !Rgb [255,255,255]}
+  special: {foreground: !Rgb [255,255,255]}
+  executable: {foreground: !Rgb [255,255,255]}
+  mount_point: {foreground: !Rgb [255,255,255]}
+
+perms:
+  user_read: {foreground: !Rgb [255,255,255]}
+  user_write: {foreground: !Rgb [255,255,255]}
+  user_execute_file: {foreground: !Rgb [255,255,255]}
+  user_execute_other: {foreground: !Rgb [255,255,255]}
+  group_read: {foreground: !Rgb [255,255,255]}
+  group_write: {foreground: !Rgb [255,255,255]}
+  group_execute: {foreground: !Rgb [255,255,255]}
+  other_read: {foreground: !Rgb [255,255,255]}
+  other_write: {foreground: !Rgb [255,255,255]}
+  other_execute: {foreground: !Rgb [255,255,255]}
+  special_user_file: {foreground: !Rgb [255,255,255]}
+  special_other: {foreground: !Rgb [255,255,255]}
+  attribute: {foreground: !Rgb [255,255,255]}
+
+size:
+  major: {foreground: !Rgb [255,255,255]}
+  minor: {foreground: !Rgb [255,255,255]}
+  number_byte: {foreground: !Rgb [255,255,255]}
+  number_kilo: {foreground: !Rgb [255,255,255]}
+  number_mega: {foreground: !Rgb [255,255,255]}
+  number_giga: {foreground: !Rgb [255,255,255]}
+  number_huge: {foreground: !Rgb [255,255,255]}
+  unit_byte: {foreground: !Rgb [255,255,255]}
+  unit_kilo: {foreground: !Rgb [255,255,255]}
+  unit_mega: {foreground: !Rgb [255,255,255]}
+  unit_giga: {foreground: !Rgb [255,255,255]}
+  unit_huge: {foreground: !Rgb [255,255,255]}
+
+users:
+  user_you: {foreground: !Rgb [255,255,255]}
+  user_root: {foreground: !Rgb [255,255,255]}
+  user_other: {foreground: !Rgb [255,255,255]}
+  group_yours: {foreground: !Rgb [255,255,255]}
+  group_other: {foreground: !Rgb [255,255,255]}
+  group_root: {foreground: !Rgb [255,255,255]}
+
+links:
+  normal: {foreground: !Rgb [255,255,255]}
+  multi_link_file: {foreground: !Rgb [255,255,255]}
+
+git:
+  new: {foreground: !Rgb [255,255,255]}
+  modified: {foreground: !Rgb [255,255,255]}
+  deleted: {foreground: !Rgb [255,255,255]}
+  renamed: {foreground: !Rgb [255,255,255]}
+  typechange: {foreground: !Rgb [255,255,255]}
+  ignored: {foreground: !Rgb [255,255,255]}
+  conflicted: {foreground: !Rgb [255,255,255]}
+
+git_repo:
+  branch_main: {foreground: !Rgb [255,255,255]}
+  branch_other: {foreground: !Rgb [255,255,255]}
+  git_clean: {foreground: !Rgb [255,255,255]}
+  git_dirty: {foreground: !Rgb [255,255,255]}
+
+security_context:
+  colon: {foreground: !Rgb [255,255,255]}
+  user: {foreground: !Rgb [255,255,255]}
+  role: {foreground: !Rgb [255,255,255]}
+  typ: {foreground: !Rgb [255,255,255]}
+  range: {foreground: !Rgb [255,255,255]}
+
+file_type:
+  image: {foreground: !Rgb [255,255,255]}
+  video: {foreground: !Rgb [255,255,255]}
+  music: {foreground: !Rgb [255,255,255]}
+  lossless: {foreground: !Rgb [255,255,255]}
+  crypto: {foreground: !Rgb [255,255,255]}
+  document: {foreground: !Rgb [255,255,255]}
+  compressed: {foreground: !Rgb [255,255,255]}
+  temp: {foreground: !Rgb [255,255,255]}
+  compiled: {foreground: !Rgb [255,255,255]}
+  build: {foreground: !Rgb [255,255,255]}
+  source: {foreground: !Rgb [255,255,255]}
+
+punctuation: {foreground: !Rgb [255,255,255]}
+date: {foreground: !Rgb [255,255,255]}
+inode: {foreground: !Rgb [255,255,255]}
+blocks: {foreground: !Rgb [255,255,255]}
+header: {foreground: !Rgb [255,255,255]}
+octal: {foreground: !Rgb [255,255,255]}
+flags: {foreground: !Rgb [255,255,255]}
+
+symlink_path: {foreground: !Rgb [255,255,255]}
+control_char: {foreground: !Rgb [255,255,255]}
+broken_symlink: {foreground: !Rgb [255,255,255]}
+broken_path_overlay: {foreground: !Rgb [255,255,255]}
+
+filenames:
+  # Custom filename-based overrides
+  # Cargo.toml: {icon: {glyph: 🦀}}
+
+extensions:
+  # Custom extension-based overrides
+  # rs: {filename: {foreground: Red}, icon: {glyph: 🦀}}

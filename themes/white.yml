@@ -1,105 +1,105 @@
 colourful: false
 
 filekinds:
-  normal: {foreground: !Rgb [255,255,255]}
-  directory: {foreground: !Rgb [255,255,255]}
-  symlink: {foreground: !Rgb [255,255,255]}
-  pipe: {foreground: !Rgb [255,255,255]}
-  block_device: {foreground: !Rgb [255,255,255]}
-  char_device: {foreground: !Rgb [255,255,255]}
-  socket: {foreground: !Rgb [255,255,255]}
-  special: {foreground: !Rgb [255,255,255]}
-  executable: {foreground: !Rgb [255,255,255]}
-  mount_point: {foreground: !Rgb [255,255,255]}
+  normal: {foreground: "#fff"}
+  directory: {foreground: "#fff"}
+  symlink: {foreground: "#fff"}
+  pipe: {foreground: "#fff"}
+  block_device: {foreground: "#fff"}
+  char_device: {foreground: "#fff"}
+  socket: {foreground: "#fff"}
+  special: {foreground: "#fff"}
+  executable: {foreground: "#fff"}
+  mount_point: {foreground: "#fff"}
 
 perms:
-  user_read: {foreground: !Rgb [255,255,255]}
-  user_write: {foreground: !Rgb [255,255,255]}
-  user_execute_file: {foreground: !Rgb [255,255,255]}
-  user_execute_other: {foreground: !Rgb [255,255,255]}
-  group_read: {foreground: !Rgb [255,255,255]}
-  group_write: {foreground: !Rgb [255,255,255]}
-  group_execute: {foreground: !Rgb [255,255,255]}
-  other_read: {foreground: !Rgb [255,255,255]}
-  other_write: {foreground: !Rgb [255,255,255]}
-  other_execute: {foreground: !Rgb [255,255,255]}
-  special_user_file: {foreground: !Rgb [255,255,255]}
-  special_other: {foreground: !Rgb [255,255,255]}
-  attribute: {foreground: !Rgb [255,255,255]}
+  user_read: {foreground: "#fff"}
+  user_write: {foreground: "#fff"}
+  user_execute_file: {foreground: "#fff"}
+  user_execute_other: {foreground: "#fff"}
+  group_read: {foreground: "#fff"}
+  group_write: {foreground: "#fff"}
+  group_execute: {foreground: "#fff"}
+  other_read: {foreground: "#fff"}
+  other_write: {foreground: "#fff"}
+  other_execute: {foreground: "#fff"}
+  special_user_file: {foreground: "#fff"}
+  special_other: {foreground: "#fff"}
+  attribute: {foreground: "#fff"}
 
 size:
-  major: {foreground: !Rgb [255,255,255]}
-  minor: {foreground: !Rgb [255,255,255]}
-  number_byte: {foreground: !Rgb [255,255,255]}
-  number_kilo: {foreground: !Rgb [255,255,255]}
-  number_mega: {foreground: !Rgb [255,255,255]}
-  number_giga: {foreground: !Rgb [255,255,255]}
-  number_huge: {foreground: !Rgb [255,255,255]}
-  unit_byte: {foreground: !Rgb [255,255,255]}
-  unit_kilo: {foreground: !Rgb [255,255,255]}
-  unit_mega: {foreground: !Rgb [255,255,255]}
-  unit_giga: {foreground: !Rgb [255,255,255]}
-  unit_huge: {foreground: !Rgb [255,255,255]}
+  major: {foreground: "#fff"}
+  minor: {foreground: "#fff"}
+  number_byte: {foreground: "#fff"}
+  number_kilo: {foreground: "#fff"}
+  number_mega: {foreground: "#fff"}
+  number_giga: {foreground: "#fff"}
+  number_huge: {foreground: "#fff"}
+  unit_byte: {foreground: "#fff"}
+  unit_kilo: {foreground: "#fff"}
+  unit_mega: {foreground: "#fff"}
+  unit_giga: {foreground: "#fff"}
+  unit_huge: {foreground: "#fff"}
 
 users:
-  user_you: {foreground: !Rgb [255,255,255]}
-  user_root: {foreground: !Rgb [255,255,255]}
-  user_other: {foreground: !Rgb [255,255,255]}
-  group_yours: {foreground: !Rgb [255,255,255]}
-  group_other: {foreground: !Rgb [255,255,255]}
-  group_root: {foreground: !Rgb [255,255,255]}
+  user_you: {foreground: "#fff"}
+  user_root: {foreground: "#fff"}
+  user_other: {foreground: "#fff"}
+  group_yours: {foreground: "#fff"}
+  group_other: {foreground: "#fff"}
+  group_root: {foreground: "#fff"}
 
 links:
-  normal: {foreground: !Rgb [255,255,255]}
-  multi_link_file: {foreground: !Rgb [255,255,255]}
+  normal: {foreground: "#fff"}
+  multi_link_file: {foreground: "#fff"}
 
 git:
-  new: {foreground: !Rgb [255,255,255]}
-  modified: {foreground: !Rgb [255,255,255]}
-  deleted: {foreground: !Rgb [255,255,255]}
-  renamed: {foreground: !Rgb [255,255,255]}
-  typechange: {foreground: !Rgb [255,255,255]}
-  ignored: {foreground: !Rgb [255,255,255]}
-  conflicted: {foreground: !Rgb [255,255,255]}
+  new: {foreground: "#fff"}
+  modified: {foreground: "#fff"}
+  deleted: {foreground: "#fff"}
+  renamed: {foreground: "#fff"}
+  typechange: {foreground: "#fff"}
+  ignored: {foreground: "#fff"}
+  conflicted: {foreground: "#fff"}
 
 git_repo:
-  branch_main: {foreground: !Rgb [255,255,255]}
-  branch_other: {foreground: !Rgb [255,255,255]}
-  git_clean: {foreground: !Rgb [255,255,255]}
-  git_dirty: {foreground: !Rgb [255,255,255]}
+  branch_main: {foreground: "#fff"}
+  branch_other: {foreground: "#fff"}
+  git_clean: {foreground: "#fff"}
+  git_dirty: {foreground: "#fff"}
 
 security_context:
-  colon: {foreground: !Rgb [255,255,255]}
-  user: {foreground: !Rgb [255,255,255]}
-  role: {foreground: !Rgb [255,255,255]}
-  typ: {foreground: !Rgb [255,255,255]}
-  range: {foreground: !Rgb [255,255,255]}
+  colon: {foreground: "#fff"}
+  user: {foreground: "#fff"}
+  role: {foreground: "#fff"}
+  typ: {foreground: "#fff"}
+  range: {foreground: "#fff"}
 
 file_type:
-  image: {foreground: !Rgb [255,255,255]}
-  video: {foreground: !Rgb [255,255,255]}
-  music: {foreground: !Rgb [255,255,255]}
-  lossless: {foreground: !Rgb [255,255,255]}
-  crypto: {foreground: !Rgb [255,255,255]}
-  document: {foreground: !Rgb [255,255,255]}
-  compressed: {foreground: !Rgb [255,255,255]}
-  temp: {foreground: !Rgb [255,255,255]}
-  compiled: {foreground: !Rgb [255,255,255]}
-  build: {foreground: !Rgb [255,255,255]}
-  source: {foreground: !Rgb [255,255,255]}
+  image: {foreground: "#fff"}
+  video: {foreground: "#fff"}
+  music: {foreground: "#fff"}
+  lossless: {foreground: "#fff"}
+  crypto: {foreground: "#fff"}
+  document: {foreground: "#fff"}
+  compressed: {foreground: "#fff"}
+  temp: {foreground: "#fff"}
+  compiled: {foreground: "#fff"}
+  build: {foreground: "#fff"}
+  source: {foreground: "#fff"}
 
-punctuation: {foreground: !Rgb [255,255,255]}
-date: {foreground: !Rgb [255,255,255]}
-inode: {foreground: !Rgb [255,255,255]}
-blocks: {foreground: !Rgb [255,255,255]}
-header: {foreground: !Rgb [255,255,255]}
-octal: {foreground: !Rgb [255,255,255]}
-flags: {foreground: !Rgb [255,255,255]}
+punctuation: {foreground: "#fff"}
+date: {foreground: "#fff"}
+inode: {foreground: "#fff"}
+blocks: {foreground: "#fff"}
+header: {foreground: "#fff"}
+octal: {foreground: "#fff"}
+flags: {foreground: "#fff"}
 
-symlink_path: {foreground: !Rgb [255,255,255]}
-control_char: {foreground: !Rgb [255,255,255]}
-broken_symlink: {foreground: !Rgb [255,255,255]}
-broken_path_overlay: {foreground: !Rgb [255,255,255]}
+symlink_path: {foreground: "#fff"}
+control_char: {foreground: "#fff"}
+broken_symlink: {foreground: "#fff"}
+broken_path_overlay: {foreground: "#fff"}
 
 filenames:
   # Custom filename-based overrides

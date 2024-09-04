@@ -16,10 +16,6 @@ come up with a couple of themes first.
 - [black](themes/black.yml): All black everything.
 - [white](themes/white.yml): All white everything.
 
-**NOTE:** Before adding new themes, a PR for improving eza's color deserialization
-including hex color specification is planned, which would simplify theming
-with concrete RGB values a lot. So maybe wait for that first.
-
 ## Installation
 
 On Linux, simply clone the repository somewhere and symlink a theme to

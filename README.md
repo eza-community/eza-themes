@@ -13,6 +13,7 @@ come up with a couple of themes first.
 ## Themes
 
 - [default](themes/default.yml): Replicates eza's default look.
+- [frosty](themes/frosty.yml): Bright and icy tones.
 - [black](themes/black.yml): All black everything.
 - [white](themes/white.yml): All white everything.
 

@@ -1,0 +1,210 @@
+filekinds:
+  normal:
+    foreground: White
+  directory:
+    foreground: LightGreen 
+    is_bold: true
+    is_italic: true
+  symlink:
+    foreground: Cyan
+    is_italic: true
+  pipe:
+    foreground: Yellow
+  block_device:
+    foreground: Magenta
+  char_device:
+    foreground: Magenta
+  socket:
+    foreground: Yellow
+  special:
+    foreground: Red
+  executable:
+    foreground: Green
+    is_bold: true
+  mount_point:
+    foreground: Red
+    is_bold: true
+
+perms:
+  user_read:
+    foreground: Yellow
+  user_write:
+    foreground: Red
+  user_executable_file:
+    foreground: Green
+  user_execute_other:
+    foreground: Green
+  group_read:
+    foreground: Yellow
+  group_write:
+    foreground: Red
+  group_execute:
+    foreground: Green
+  other_read:
+    foreground: Yellow
+  other_write:
+    foreground: Red 
+  other_execute:
+    foreground: Green
+  special_user_file:
+    foreground: Red
+    is_bold: true
+  special_other:
+    foreground: Red
+    is_bold: true
+  attribute:
+    foreground: Yellow
+
+size:
+  major:
+    foreground: Yellow
+  minor:
+    foreground: White 
+  number_byte:
+    foreground: Yellow
+  number_kilo:
+    foreground: Green 
+  number_mega:
+    foreground: Blue  
+  number_giga:
+    foreground: Magent
+  number_huge:
+    foreground: Red   
+  unit_byte:
+    foreground: Yellow
+  unit_kilo:
+    foreground: Green 
+  unit_mega:
+    foreground: Blue  
+  unit_giga:
+    foreground: Magenta
+  unit_huge:
+    foreground: Red 
+
+users:
+  user_you:
+    foreground: LightRed
+    is_bold: true
+    is_italic: true
+  user_root:
+    foreground: Red
+    is_bold: true
+    is_italic: true
+  user_other:
+    foreground: Yellow
+  group_yours:
+    foreground: Green  
+  group_other:
+    foreground: Yellow 
+  group_root:
+    foreground: Red    
+
+links:
+  normal:
+    foreground: Cyan   
+  multi_link_file:
+    foreground: Yellow 
+
+git:
+  new:
+    foreground: Green  
+    is_bold: true
+  modified:
+    foreground: Yellow 
+  deleted:
+    foreground: Red    
+    is_strikethrough: true
+  renamed:
+    foreground: Blue   
+  ignored:
+    foreground: White  
+    is_dimmed: true
+  conflicted:
+    foreground: Red    
+    is_bold: true
+
+git_repo:
+  branch_main:
+    foreground: Yellow 
+    is_bold: true
+  branch_other:
+    foreground: Cyan   
+  git_clean:
+    foreground: Green  
+    is_bold: true
+  git_dirty:
+    foreground: Red    
+    is_bold: true
+
+security_context:
+  none:
+    foreground: White
+  selinux:
+    colon:
+      foreground: Yellow
+    user:
+      foreground: Blue
+    role:
+      foreground: Green
+    typ:
+      foreground: Yellow
+    range:
+      foreground: Red
+
+file_type:
+  image:
+    foreground: Blue
+  video:
+    foreground: Magenta
+  music:
+    foreground: Green
+  crypto:
+    foreground: Red
+  document:
+    foreground: Yellow
+  compressed:
+    foreground: Red
+  temp:
+    foreground: Yellow
+    is_bold: true
+  compiled:
+    foreground: Green
+  build:
+    foreground: Yellow
+  source:
+    foreground: White 
+
+punctuation:
+  foreground: White
+
+date:
+  foreground: LightYellow
+
+inode:
+  foreground: Yellow
+
+blocks:
+  foreground: Yellow
+
+header:
+  foreground: LightYellow
+  is_bold: true
+
+octal:
+  foreground: Yellow
+
+flags:
+  foreground: Red
+
+control_char:
+  foreground: Red
+
+broken_symlink:
+  foreground: Red
+  is_bold: true
+  is_underline: true
+
+broken_path_overlay:
+  foreground: Red
+  is_bold: true
+  is_underline: true

@@ -16,6 +16,9 @@ come up with a couple of themes first.
 - [frosty](themes/frosty.yml): Bright and icy tones.
 - [black](themes/black.yml): All black everything.
 - [white](themes/white.yml): All white everything.
+- [gruvbox](themes/gruvbox.yml): Classic bright theme, with warm 'retro groove' colors.
+
+<img src="imgs/gruvbox.png" alt="gruvbox theme" width="360" />
 
 ## Installation
 
@@ -26,6 +29,7 @@ git clone https://github.com/eza-community/eza-themes.git
 mkdir -p ~/.config/eza
 ln -sf "$(pwd)/eza-themes/themes/default.yml" ~/.config/eza/theme.yml
 ```
+
 
 ## Usage Hints
 

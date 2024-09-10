@@ -13,12 +13,24 @@ come up with a couple of themes first.
 ## Themes
 
 - [default](themes/default.yml): Replicates eza's default look.
+
+<img src="imgs/default.png" alt="default theme" width="500" />
+
 - [frosty](themes/frosty.yml): Bright and icy tones.
+
+<img src="imgs/frosty.png" alt="frosty theme" width="500" />
+
 - [black](themes/black.yml): All black everything.
+
+<img src="imgs/black.png" alt="black theme" width="500" />
+
 - [white](themes/white.yml): All white everything.
+
+<img src="imgs/white.png" alt="white  theme" width="500" />
+
 - [gruvbox](themes/gruvbox.yml): Classic bright theme, with warm 'retro groove' colors.
 
-<img src="imgs/gruvbox.png" alt="gruvbox theme" width="360" />
+<img src="imgs/gruvbox.png" alt="gruvbox theme" width="500" />
 
 ## Installation
 

@@ -36,6 +36,11 @@ come up with a couple of themes first.
 
 <img src="imgs/catppuccin.png" alt="catppuccin theme" width="500" />
 
+- [onedark](themes/one_dark.yml): OneDark theme of `Atom` fame.
+
+<img src="imgs/one_dark.png" alt="catppuccin theme" width="500" />
+
+
 ## Installation
 
 On Linux, simply clone the repository somewhere and symlink a theme to

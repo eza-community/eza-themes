@@ -32,6 +32,10 @@ come up with a couple of themes first.
 
 <img src="imgs/gruvbox.png" alt="gruvbox theme" width="500" />
 
+- [catppuccin](themes/catppuccin.yml): [Catppuccin](https://catppuccin.com/palette) theme
+
+<img src="imgs/catppuccin.png" alt="catppuccin theme" width="500" />
+
 ## Installation
 
 On Linux, simply clone the repository somewhere and symlink a theme to

@@ -40,6 +40,10 @@ come up with a couple of themes first.
 
 <img src="imgs/one_dark.png" alt="onedark theme" width="500" />
 
+- [dracula](themes/dracula.yml): [Dracula](https://draculatheme.com/contribute#color-palette) theme
+
+<img src="imgs/dracula.png" alt="dracula theme" width="500" />
+
 
 ## Installation
 

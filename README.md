@@ -28,9 +28,9 @@ come up with a couple of themes first.
 
 <img src="imgs/white.png" alt="white  theme" width="500" />
 
-- [gruvbox](themes/gruvbox.yml): Classic bright theme, with warm 'retro groove' colors.
+- [gruvbox-dark](themes/gruvbox-dark.yml): Classic bright theme, with warm 'retro groove' colors.
 
-<img src="imgs/gruvbox.png" alt="gruvbox theme" width="500" />
+<img src="imgs/gruvbox.png" alt="gruvbox-dark theme" width="500" />
 
 - [catppuccin](themes/catppuccin.yml): [Catppuccin](https://catppuccin.com/palette) theme
 

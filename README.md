@@ -27,9 +27,9 @@ Themes for [eza](https://github.com/eza-community/eza).
 
 - [gruvbox-dark](themes/gruvbox-dark.yml): Classic bright theme, with warm 'retro groove' colors.
 
-<img src="imgs/gruvbox.png" alt="gruvbox-dark theme" width="500" />
+<img src="imgs/gruvbox-dark.png" alt="gruvbox-dark theme" width="500" />
 
-- [catppuccin](themes/catppuccin.yml): [Catppuccin](https://catppuccin.com/palette) theme
+- [catppuccin](themes/catppuccin.yml): Smooth pastel theme [Catppuccin](https://catppuccin.com/palette)
 
 <img src="imgs/catppuccin.png" alt="catppuccin theme" width="500" />
 
@@ -41,7 +41,7 @@ Themes for [eza](https://github.com/eza-community/eza).
 
 <img src="imgs/dracula.png" alt="dracula theme" width="500" />
 
-- [gruvbox-light](themes/gruvbox-light): Brighter version of classic gruvbox theme
+- [gruvbox-light](themes/gruvbox-light): a `gruvbox` theme for light mode
 
 <img src="imgs/gruvbox-light.png" alt="gruvbox-light theme" width="500" />
 
@@ -56,6 +56,12 @@ mkdir -p ~/.config/eza
 ln -sf "$(pwd)/eza-themes/themes/default.yml" ~/.config/eza/theme.yml
 ```
 
+## Contributing
+
+Contributions are very welcome! Any improvements you may have to existing themes or any new themes you would 
+like to add are welcome and encouraged. Please submit a PR with your changes, making sure to reflect any
+changes you made in the README, and please include a screenshot of the proposed theme using the provided
+[test directory](test_dir/) to display a wide range of file types.
 
 ## Usage Hints
 

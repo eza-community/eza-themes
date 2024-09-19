@@ -6,9 +6,6 @@ Themes for [eza](https://github.com/eza-community/eza).
 
 </div>
 
-**DISCLAIMER:** This is work-in-progress and thus still private until the recently
-merged theming feature is released and stabilized a bit more. Also we have to
-come up with a couple of themes first.
 
 ## Themes
 
@@ -43,6 +40,10 @@ come up with a couple of themes first.
 - [dracula](themes/dracula.yml): [Dracula](https://draculatheme.com/contribute#color-palette) theme
 
 <img src="imgs/dracula.png" alt="dracula theme" width="500" />
+
+- [gruvbox-light](themes/gruvbox-light): Brighter version of classic gruvbox theme
+
+<img src="imgs/gruvbox-light.png" alt="gruvbox-light theme" width="500" />
 
 
 ## Installation

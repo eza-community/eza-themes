@@ -45,6 +45,9 @@ Themes for [eza](https://github.com/eza-community/eza).
 
 <img src="imgs/gruvbox-light.png" alt="gruvbox-light theme" width="500" />
 
+- [tokyonight](themes/tokyonight): A [Tokyonight](https://github.com/folke/tokyonight.nvim) theme
+
+<img src="imgs/tokyonight.png" alt="tokyonight theme" width="500" />
 
 ## Installation
 
@@ -55,6 +58,8 @@ git clone https://github.com/eza-community/eza-themes.git
 mkdir -p ~/.config/eza
 ln -sf "$(pwd)/eza-themes/themes/default.yml" ~/.config/eza/theme.yml
 ```
+
+Note: on MacOS, `eza` will look for the theme file in `~/Library/Application Support/eza` by default. That directory can be overridden by setting `EZA_CONFIG_DIR`.
 
 ## Contributing
 

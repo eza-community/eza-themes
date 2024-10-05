@@ -59,6 +59,8 @@ mkdir -p ~/.config/eza
 ln -sf "$(pwd)/eza-themes/themes/default.yml" ~/.config/eza/theme.yml
 ```
 
+Note: on MacOS, `eza` will look for the theme file in `~/Library/Application Support/eza` by default. That directory can be overridden by setting `EZA_CONFIG_DIR`.
+
 ## Contributing
 
 Contributions are very welcome! Any improvements you may have to existing themes or any new themes you would 

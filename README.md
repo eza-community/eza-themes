@@ -41,7 +41,7 @@ Themes for [eza](https://github.com/eza-community/eza).
 
 <img src="imgs/dracula.png" alt="dracula theme" width="500" />
 
-- [gruvbox-light](themes/gruvbox-light): a `gruvbox` theme for light mode
+- [gruvbox-light](themes/gruvbox-light.yml): a `gruvbox` theme for light mode
 
 <img src="imgs/gruvbox-light.png" alt="gruvbox-light theme" width="500" />
 

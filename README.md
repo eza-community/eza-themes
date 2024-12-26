@@ -59,7 +59,9 @@ mkdir -p ~/.config/eza
 ln -sf "$(pwd)/eza-themes/themes/default.yml" ~/.config/eza/theme.yml
 ```
 
-Note: on MacOS, `eza` will look for the theme file in `~/Library/Application Support/eza` by default. That directory can be overridden by setting `EZA_CONFIG_DIR`.
+**MacOS**: on MacOS, `eza` will look for the theme file in `~/Library/Application Support/eza` by default. That directory can be overridden by setting `EZA_CONFIG_DIR`.
+
+**PowerShell**: create the config folder with the theme file or a link to it under USERPROFILE and put `$env:EZA_CONFIG_DIR = "$env:USERPROFILE\.config\eza"` in your PowerShell configuration to direct `eza` to that directory.
 
 ## Contributing
 

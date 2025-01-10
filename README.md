@@ -49,6 +49,10 @@ Themes for [eza](https://github.com/eza-community/eza).
 
 <img src="imgs/tokyonight.png" alt="tokyonight theme" width="500" />
 
+- [Rosé Pine](themes/rose-pine.yml): All natural pine, faux fur and a bit of soho vibes for the classy minimalist. Created with the main [Rosé Pine](https://github.com/rose-pine/rose-pine-theme) palette.
+
+<img src="imgs/rose-pine.png" alt="tokyonight theme" width="500" />
+
 ## Installation
 
 On Linux, simply clone the repository somewhere and symlink a theme to

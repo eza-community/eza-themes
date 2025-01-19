@@ -10,12 +10,12 @@ filekinds:
   socket: {foreground: Red, is_bold: true}
   special: {foreground: Yellow}
   executable: {foreground: Green, is_bold: true}
-  mount_point: {foreground: Blue, is_bold: true, is_underlined: true}
+  mount_point: {foreground: Blue, is_bold: true, is_underline: true}
 
 perms:
   user_read: {foreground: Yellow, is_bold: true}
   user_write: {foreground: Red, is_bold: true}
-  user_execute_file: {foreground: Green, is_bold: true, is_underlined: true}
+  user_execute_file: {foreground: Green, is_bold: true, is_underline: true}
   user_execute_other: {foreground: Green, is_bold: true}
   group_read: {foreground: Yellow}
   group_write: {foreground: Red}
@@ -85,21 +85,21 @@ file_type:
   compressed: {foreground: Red}
   temp: {foreground: White}
   compiled: {foreground: Yellow}
-  build: {foreground: Yellow, is_bold: true, is_underlined: true}
+  build: {foreground: Yellow, is_bold: true, is_underline: true}
   source: {foreground: Yellow, is_bold: true}
 
 punctuation: {foreground: DarkGray, is_bold: true}
 date: {foreground: Blue}
 inode: {foreground: Purple}
 blocks: {foreground: Cyan}
-header: {foreground: Default, is_underlined: true}
+header: {foreground: Default, is_underline: true}
 octal: {foreground: Purple}
 flags: {foreground: Default}
 
 symlink_path: {foreground: Cyan}
 control_char: {foreground: Red}
 broken_symlink: {foreground: Red}
-broken_path_overlay: {foreground: Default, is_underlined: true}
+broken_path_overlay: {foreground: Default, is_underline: true}
 
 filenames:
   # Custom filename-based overrides

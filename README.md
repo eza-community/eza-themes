@@ -53,6 +53,10 @@ Themes for [eza](https://github.com/eza-community/eza).
 
 <img src="imgs/rose-pine.png" alt="tokyonight theme" width="500" />
 
+- [Rosé Pine Moon](themes/rose-pine-moon.yml): All natural pine, faux fur and a bit of soho vibes for the classy minimalist. Created with the [Rosé Pine Moon](https://github.com/rose-pine/rose-pine-theme) palette.
+
+<img src="imgs/rose-pine-moon.png" alt="rose pine moon theme" width="500" />
+
 ## Installation
 
 On Linux, simply clone the repository somewhere and symlink a theme to

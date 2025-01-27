@@ -110,7 +110,7 @@ file_type:
 punctuation: {foreground: "#524f67"}
 date: {foreground: "#31748f"}
 inode: {foreground: "#908caa"}
-blocks: {foreground: "#9399B2"}
+blocks: {foreground: "#6e6a86"}
 header: {foreground: "#908caa"}
 octal: {foreground: "#9ccfd8"}
 flags: {foreground: "#c4a7e7"}

@@ -51,7 +51,7 @@ Themes for [eza](https://github.com/eza-community/eza).
 
 - [Rosé Pine](themes/rose-pine.yml): All natural pine, faux fur and a bit of soho vibes for the classy minimalist. Created with the main [Rosé Pine](https://github.com/rose-pine/rose-pine-theme) palette.
 
-<img src="imgs/rose-pine.png" alt="tokyonight theme" width="500" />
+<img src="imgs/rose-pine.png" alt="rose pine theme" width="500" />
 
 ## Installation
 

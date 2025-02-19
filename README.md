@@ -53,6 +53,10 @@ Themes for [eza](https://github.com/eza-community/eza).
 
 <img src="imgs/rose-pine.png" alt="rose pine theme" width="500" />
 
+- [Rosé Pine Dawn](themes/rose-pine-dawn.yml): All natural pine, faux fur and a bit of soho vibes for the classy minimalist. Created with the [Rosé Pine Dawn](https://github.com/rose-pine/rose-pine-theme) palette.
+
+<img src="imgs/rose-pine-dawn.png" alt="rose pine dawn theme" width="500" />
+
 ## Installation
 
 On Linux, simply clone the repository somewhere and symlink a theme to

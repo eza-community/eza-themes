@@ -61,6 +61,10 @@ Themes for [eza](https://github.com/eza-community/eza).
 
 <img src="imgs/rose-pine-moon.png" alt="rose pine moon theme" width="500" />
 
+- [Alice](themes/alice.yml): Easy on the eyes. From [alice-themes](https://github.com/wreedb/alice-themes)
+
+<img src="imgs/alice.png" alt="alice theme" width="500" />
+
 ## Installation
 
 On Linux, simply clone the repository somewhere and symlink a theme to

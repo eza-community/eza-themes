@@ -1,3 +1,4 @@
+---
 # colors:
 #  - light icy blue: #E0F7FA
 #  - snow white: #FFFFFF
@@ -111,9 +112,9 @@ broken_symlink: {foreground: "#FF8A80"}
 broken_path_overlay: {foreground: "#607D8B"}
 
 filenames:
-  # Custom filename-based overrides
-  # Cargo.toml: {icon: {glyph: 🦀}}
+# Custom filename-based overrides
+# Cargo.toml: {icon: {glyph: 🦀}}
 
 extensions:
-  # Custom extension-based overrides
-  # rs: {filename: {foreground: Red}, icon: {glyph: 🦀}}
+# Custom extension-based overrides
+# rs: {filename: {foreground: Red}, icon: {glyph: 🦀}}

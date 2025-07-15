@@ -88,7 +88,7 @@ file_type:
   build: { foreground: "#1abc9c" }
   source: { foreground: "#bb9af7" }
 
-punctuation: { foreground: "#292e42" }
+punctuation: { foreground: "#3b4261" }
 date: { foreground: "#e0af68" }
 inode: { foreground: "#737aa2" }
 blocks: { foreground: "#737aa2" }

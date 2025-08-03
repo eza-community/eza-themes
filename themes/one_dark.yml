@@ -1,3 +1,4 @@
+---
 colourful: true
 
 filekinds:
@@ -100,4 +101,3 @@ symlink_path: {foreground: "#56B6C2"}
 control_char: {foreground: "#61AFEF"}
 broken_symlink: {foreground: "#E06C75"}
 broken_path_overlay: {foreground: "#5C6370"}
-

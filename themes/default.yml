@@ -1,3 +1,4 @@
+---
 colourful: true
 
 filekinds:
@@ -102,9 +103,9 @@ broken_symlink: {foreground: Red}
 broken_path_overlay: {foreground: Default, is_underline: true}
 
 filenames:
-  # Custom filename-based overrides
-  # Cargo.toml: {icon: {glyph: 🦀}}
+# Custom filename-based overrides
+# Cargo.toml: {icon: {glyph: 🦀}}
 
 extensions:
-  # Custom extension-based overrides
-  # rs: {filename: {foreground: Red}, icon: {glyph: 🦀}}
+# Custom extension-based overrides
+# rs: {filename: {foreground: Red}, icon: {glyph: 🦀}}

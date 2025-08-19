@@ -29,9 +29,21 @@ Themes for [eza](https://github.com/eza-community/eza).
 
 <img src="imgs/gruvbox-dark.png" alt="gruvbox-dark theme" width="500" />
 
-- [catppuccin](themes/catppuccin.yml): Smooth pastel theme [Catppuccin](https://catppuccin.com/palette)
+- [catppuccin-latte](themes/catppuccin-latte.yml): Smooth pastel theme, latte flavor - [Catppuccin](https://catppuccin.com/palette)
 
-<img src="imgs/catppuccin.png" alt="catppuccin theme" width="500" />
+<img src="imgs/catppuccin-latte.png" alt="catppuccin-latte theme" width="500" />
+
+- [catppuccin-frappe](themes/catppuccin-frappe.yml): Smooth pastel theme, frappe flavor - [Catppuccin](https://catppuccin.com/palette)
+
+<img src="imgs/catppuccin-frappe.png" alt="catppuccin-frappe theme" width="500" />
+
+- [catppuccin-macchiato](themes/catppuccin-macchiato.yml): Smooth pastel theme, macchiato flavor - [Catppuccin](https://catppuccin.com/palette)
+
+<img src="imgs/catppuccin-macchiato.png" alt="catppuccin-macchiato theme" width="500" />
+
+- [catppuccin-mocha](themes/catppuccin-mocha.yml): Smooth pastel theme, mocha flavor - [Catppuccin](https://catppuccin.com/palette)
+
+<img src="imgs/catppuccin-mocha.png" alt="catppuccin-mocha theme" width="500" />
 
 - [onedark](themes/one_dark.yml): OneDark theme of `Atom` fame.
 

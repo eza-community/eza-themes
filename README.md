@@ -61,6 +61,10 @@ Themes for [eza](https://github.com/eza-community/eza).
 
 <img src="imgs/rose-pine-moon.png" alt="rose pine moon theme" width="500" />
 
+- [Solarized Dark](themes/solarized-dark.yml): Precision colors for machines and people. Created with the [Solarized](https://ethanschoonover.com/solarized/) palette.
+
+<img src="imgs/solarized-dark.png" alt="solarized dark theme" width="500" />
+
 ## Installation
 
 On Linux, simply clone the repository somewhere and symlink a theme to

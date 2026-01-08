@@ -214,7 +214,8 @@ filenames:
       is_bold: true
     icon:
       glyph: ⚙️
-      foreground: Red
+      style:
+        foreground: Red
 ```
 In this example, any file named Makefile will have red, bold text and a gear icon in red.
 Extensions
@@ -229,7 +230,8 @@ extensions:
       foreground: Blue
     icon:
       glyph: 📘
-      foreground: Blue
+      style:
+        foreground: Blue
 ```
 
 Files with the .md extension will have blue text and a blue book icon.
@@ -243,7 +245,8 @@ filenames:
   "Dockerfile":
     icon:
       glyph: 🐳
-      foreground: Cyan
+      style:
+        foreground: Cyan
 ```
 
 Notes:

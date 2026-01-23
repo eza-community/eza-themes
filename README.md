@@ -77,6 +77,18 @@ Themes for [eza](https://github.com/eza-community/eza).
 
 <img src="imgs/solarized-dark.png" alt="solarized dark theme" width="500" />
 
+- [Kanagawa Wave](themes/kanagawa-wave.yml): A heart-warming palette, from the [Kanagawa theme](https://github.com/rebelot/kanagawa.nvim) inspired by the colors of the famous painting by Katsushika Hokusai.
+
+<img src="imgs/kanagawa-wave.png" alt="kanagawa wave theme" width="500" />
+
+- [Kanagawa Dragon](themes/kanagawa-dragon.yml): A palette for those late-night sessions, from the [Kanagawa theme](https://github.com/rebelot/kanagawa.nvim) inspired by the colors of the famous painting by Katsushika Hokusai.
+
+<img src="imgs/kanagawa-dragon.png" alt="kanagawa dragon theme" width="500" />
+
+- [Kanagawa Lotus](themes/kanagawa-lotus.yml): A palette for when you're out in the open, from the [Kanagawa theme](https://github.com/rebelot/kanagawa.nvim) inspired by the colors of the famous painting by Katsushika Hokusai.
+
+<img src="imgs/kanagawa-lotus.png" alt="kanagawa lotus theme" width="500" />
+
 ## Installation
 
 On Linux, simply clone the repository somewhere and symlink a theme to
